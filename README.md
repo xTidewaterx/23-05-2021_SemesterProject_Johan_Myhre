@@ -1,6 +1,8 @@
 # Semester Project 1
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image]!
+![museumIntro](https://github.com/xTidewaterx/23-05-2021_SemesterProject_Johan_Myhre/assets/79268288/e40936d1-1384-46e2-8eee-4c2fc6281447)
+
 
 A website for a museum, the content should be easily navigable and offer information about the museum hours when people can visit and experience a bit of history.
 
