@@ -53,7 +53,7 @@ go live
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Email](johan12ab@gmail.com)
+[My Github](https://github.com/xTidewaterx)
 
 
 
