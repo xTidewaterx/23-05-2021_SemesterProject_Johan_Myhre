@@ -11,9 +11,9 @@ Our museum consists of different genres, and with different colors we can convey
 
 You can add some bullet points if you'd like to:
 
-- List item 1
-- List item 2
-- List item 3
+- Navigation
+- Multiple Pages
+- Expanded information on wider devices
 
 ## Built With
 
