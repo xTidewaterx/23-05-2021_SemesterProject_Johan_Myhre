@@ -45,9 +45,9 @@ Click the "go live" button offered by the extension "Live Server" in VSC
 
 To run the app, run the following commands:
 
-```bash
+
 go live
-```
+
 
 
 ## Contact
