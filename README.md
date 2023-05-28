@@ -9,7 +9,7 @@ A website for a museum, the content should be easily navigable and offer informa
 ## Description
 Our museum consists of different genres, and with different colors we can convey both the fun of history but also categorise each category so that museum visitors of our target audience can know what genre they are currently being informed of when on our website. We want the experience to be effortless.
 
-You can add some bullet points if you'd like to:
+Page inlcudes:
 
 - Navigation
 - Multiple Pages
@@ -17,7 +17,7 @@ You can add some bullet points if you'd like to:
 
 ## Built With
 
-You can list a the tech stack that you've used over here
+
 
 - [HTML](https://reactjs.org/)
 - [CSS](https://getbootstrap.com)
@@ -26,12 +26,11 @@ You can list a the tech stack that you've used over here
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
 1. Clone the repo:
 
 ```bash
-git clone [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/xTidewaterx/23-05-2021_SemesterProject_Johan_Myhre)
+git clone https://github.com/xTidewaterx/23-05-2021_SemesterProject_Johan_Myhre
 ```
 
 2. Install the dependencies:
