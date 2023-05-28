@@ -9,7 +9,7 @@ A website for a museum, the content should be easily navigable and offer informa
 ## Description
 Our museum consists of different genres, and with different colors we can convey both the fun of history but also categorise each category so that museum visitors of our target audience can know what genre they are currently being informed of when on our website. We want the experience to be effortless.
 
-Page inlcudes:
+Page includes:
 
 - Navigation
 - Multiple Pages
