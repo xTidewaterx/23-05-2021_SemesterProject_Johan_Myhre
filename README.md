@@ -21,8 +21,10 @@ Page includes:
 
 
 
-- [HTML](https://reactjs.org/)
-- [CSS](https://getbootstrap.com)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSShtml)
+
 
 ## Getting Started
 
