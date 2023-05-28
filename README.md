@@ -32,7 +32,7 @@ Page includes:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/xTidewaterx/23-05-2021_SemesterProject_Johan_Myhre
+ https://github.com/xTidewaterx/23-05-2021_SemesterProject_Johan_Myhre
 ```
 
 2. Install the dependencies:
