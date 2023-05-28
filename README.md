@@ -4,9 +4,11 @@
 ![museumIntro](https://github.com/xTidewaterx/23-05-2021_SemesterProject_Johan_Myhre/assets/79268288/e40936d1-1384-46e2-8eee-4c2fc6281447)
 
 
-A website for a museum, the content should be easily navigable and offer information about the museum hours when people can visit and experience a bit of history.
+
 
 ## Description
+A website for a museum, the content should be easily navigable and offer information about the museum hours when people can visit and experience a bit of history.
+
 Our museum consists of different genres, and with different colors we can convey both the fun of history but also categorise each category so that museum visitors of our target audience can know what genre they are currently being informed of when on our website. We want the experience to be effortless.
 
 Page includes:
